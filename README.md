@@ -5,4 +5,7 @@ Pneumonia diagnosis using implemented model from scratch by keras
 </p>
 
 ## Results
+<p align="center">
+    <img src="assets/aas.jpg" width="800"\>
+</p>
 
